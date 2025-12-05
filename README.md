@@ -1,6 +1,6 @@
 # Conditional Neural Cellular Automata for Class-Specific Morphogenesis
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PQas3_64Nx__nJt_HWJZwfcZZrk1o9HJ?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PQas3_64Nx__nJt_HWJZwfcZZrk1o9HJ?usp=sharing))
 
 ## Project Demo
 Here is the model growing specific digits from a single pixel based on the class condition:
