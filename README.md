@@ -6,7 +6,7 @@
 Here is the model growing specific digits from a single pixel based on the class condition:
 
 ![Morphogenesis Demo](growth_of_digit_8.gif)
-*(Example: Growing digit '8' using conditional vectors)*
+
 
 ## Abstract
 This repository contains the implementation of the paper **"Conditional Neural Cellular Automata for Class-Specific Morphogenesis of Handwritten Digits"**.
